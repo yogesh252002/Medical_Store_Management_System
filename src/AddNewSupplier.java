@@ -34,14 +34,6 @@ public class AddNewSupplier extends JFrame implements ActionListener
 	    l6.setBounds(250,50,300,40);l6.setForeground(Color.blue);
 	    jf.add(l6);
 
-	//	l1= new JLabel("Supplier id ");
-	//	l1.setFont(f);l1.setBounds(150,120,130,25);
-	//	jf.add(l1);
-
-	//	t1=new JTextField(20);t1.setEditable(false);
-	//	t1.setBounds(320,120,100,25);
-	//	jf.add(t1);
-
 		l2 = new JLabel("Supplier name*");
 		//l2.setFont(f);
         l2.setBounds(150,160,170,25);
